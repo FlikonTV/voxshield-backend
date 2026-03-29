@@ -1,5 +1,10 @@
 {
-  "name": "voxshield-backend",
+    "name": "voxshield-backend",
     "version": "1.0.0",
-      "private": true
-      }
+    "private": true,
+    "dependencies": {
+          "form-data": "^4.0.0",
+          "formidable": "^3.5.1",
+          "node-fetch": "^2.7.0"
+    }
+}
